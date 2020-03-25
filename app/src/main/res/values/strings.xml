@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">448protoyypeA</string>
+    <string name="need_park">I need to park!</string>
+    <string name="need_to_leave">I am leaving!</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="estimated_time">Estimated Waiting Time: 00:00:00</string>
+    <string name="contact_responser">Contact Responser</string>
+    <string name="contact_driver">Contact Driver</string>
+    <string name="cancel_request">Cancel Request</string>
+    <string name="responser_name">Responser Name</string>
+    <string name="cell_phone">Cell Phone Number</string>
+    <string name="name_driver">Driver Name</string>
+    <string name="phone_driver">Cell Phone Number</string>
+    <string name="accept">Accept Request</string>
+    <string name="finish">Request Finish!</string>
+    <string name="ok">OK!</string>
+    <string name="no_lot">No parking lot selected</string>
+</resources>
